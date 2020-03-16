@@ -1,4 +1,4 @@
-The Boston house-price data of Harrison, D. and Rubinfeld, D.L. 'Hedonic
+"""The Boston house-price data of Harrison, D. and Rubinfeld, D.L. 'Hedonic
  prices and the demand for clean air', J. Environ. Economics & Management,
  vol.5, 81-102, 1978.   Used in Belsley, Kuh & Welsch, 'Regression diagnostics
  ...', Wiley, 1980.   N.B. Various transformations are used in the table on
@@ -19,7 +19,7 @@ The Boston house-price data of Harrison, D. and Rubinfeld, D.L. 'Hedonic
  B        1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
  LSTAT    % lower status of the population
  MEDV     Median value of owner-occupied homes in $1000's
- 
+ """
  
  
  0.00632  18.00   2.310  0  0.5380  6.5750  65.20  4.0900   1  296.0  15.30
